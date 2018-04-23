@@ -1,0 +1,2 @@
+Responsive email campaign for a fictional motorsports magazine. You can't have external style sheets in this type of project however
+it's easier to work with. If I was to use this email for an actual newsletter I would put styles inside the markup.

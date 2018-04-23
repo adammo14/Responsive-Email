@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+* {
+  margin: 0px;
+  padding: 0px; }
+
+.email-background {
+  background-color: #eee;
+  height: 100%; }
+
+.pre-header {
+  color: #eee;
+  text-align: center; }
+
+.email-container {
+  background-color: white;
+  max-width: 768px;
+  margin: 0 auto;
+  border-radius: 15px;
+  font-family: 'Raleway', sans-serif; }
+  .email-container h1 {
+    text-align: center;
+    padding: 20px 0px 20px 0px; }
+
+.main {
+  max-width: 100%; }
+
+.main-text {
+  padding: 20px; }
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 20px;
+  background: #343838;
+  background-image: -webkit-gradient(linear, left top, right top, from(#ccc), color-stop(#333), to(#ccc));
+  background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: linear-gradient(to right, #ccc, #333, #ccc); }
+
+.editor-quote {
+  padding: 10px 20px;
+  font-size: 14px; }
+
+#editor-img {
+  border-radius: 50%;
+  height: 80px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px; }
+
+.credentials {
+  position: absolute;
+  display: inline-block;
+  margin-top: 60px; }
+
+.img-left {
+  float: left;
+  max-width: 50%;
+  display: inline-block;
+  margin-right: 10px; }
+
+.secondary-news {
+  height: 250px;
+  padding: 10px; }
+
+.news-title {
+  font-size: 18px;
+  text-align: center; }
+
+.text-right {
+  font-size: 14px; }
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 20px; }
+
+.link {
+  text-decoration: none;
+  color: #3d92ff; }
